@@ -1,4 +1,4 @@
-import React, { useState, useContext } from 'react';
+import React, { useContext } from 'react';
 import { Switch, Route } from 'react-router-dom';
 // from apollo boost
 // import ApolloClient, { InMemoryCache, HttpLink } from 'apollo-boost';
